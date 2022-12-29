@@ -1,0 +1,78 @@
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+#photo-head{
+    position:relative;
+    left: 25%;
+    top:10px;
+    width:100% 
+}
+#information{
+    
+    width:100% 
+}
+
+#informationall{
+    width:100% 
+}
+.facog{
+    position:relative;
+    left: 10px;
+    top:10px;
+    text-align: left;
+    
+}
+#theme-color{
+    display: none;
+    border-radius:20px;
+    position:relative;
+    background: rgb(255, 255, 255);
+    width: 200px;
+    
+}
+#theme-color-text{
+    
+    position:relative;
+    left: 8px;
+    
+}
+
+.black{
+    position:relative;
+    top:8px;
+    left: 8px;
+    border-radius:50%;
+    background: rgb(0, 0, 0);
+    width:25px;height:25px;
+}
+.red{
+    position:relative;
+    top:8px;
+    left: 8px;
+    border-radius:50%;
+    background: rgb(255, 0, 0);
+    width:25px;height:25px;
+}
+
+.green{
+    position:relative;
+    top:8px;
+    left: 8px;
+    border-radius:50%;
+    background: rgb(0, 150, 32);
+    width:25px;height:25px;
+}
+
+button{
+    background-color:rgba(240, 248, 255, 0);
+    margin: 0;
+    padding: 0;
+  
+    border: none;  
+    outline: none; 
+    background-color: none;
+}
+#music-container{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    
+}
